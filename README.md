@@ -26,7 +26,6 @@
 
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=cyrusjetson.cyrusjetson" alt="visitor badge"/>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cyrusjetsoncyrusjetson&left_color=green&right_color=red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
