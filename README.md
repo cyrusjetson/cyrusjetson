@@ -31,7 +31,7 @@
   
   <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=cyrusjetson&theme=chartreuse-dark&no-frame=false" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=cyrusjetson&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
 
 
