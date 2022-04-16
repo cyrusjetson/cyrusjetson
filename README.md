@@ -27,17 +27,17 @@
 <h3 align="left">Profile Views: 🧐</h3>
 <img width="20%" src="https://profile-counter.glitch.me/%7BGitHub-Profile%7D/count.svg" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasim-syed&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=aasim-syed&theme=chartreuse-dark&no-frame=true" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=cyrusjetson&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
 
 
 <details><summary>Trophies</summary>
 <p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=aasim-syed&column=7&theme=gruvbox&no-frame=true"/>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=cyrusjetson&column=7&theme=gruvbox&no-frame=true"/>
 </details>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31v6pvoxphilo63ijnfpfoeut6ru?si=706fb369d2d74e40) 
