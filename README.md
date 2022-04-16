@@ -24,8 +24,6 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
-<h3 align="left">Profile Views: 🧐</h3>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cyrusjetson.visitor-badge.issue.1)
                 
 
 
