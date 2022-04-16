@@ -25,7 +25,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 <h3 align="left">Profile Views: 🧐</h3>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cyrusjetson&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cyrusjetson/README.md&left_color=green&right_color=red)
                 
 
 
