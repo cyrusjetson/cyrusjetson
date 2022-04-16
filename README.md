@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">Hey, I am Jetson Cyrus <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-<p align="center"><img src="https://wallpaperaccess.com/full/1338415.jpg" height = 30% width = 30%></p>
+<p align="center"><img src="https://wallpaperaccess.com/full/1338415.jpg" height = 60% width = 60%></p>
 <h2 align="center"> 🚀 Software Engineer </h2>
 
 
