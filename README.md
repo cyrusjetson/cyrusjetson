@@ -42,7 +42,7 @@
 
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cyrujetson&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cyrusjetson&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrusjetson&theme=chartreuse-dark" />
 </p>  
 
