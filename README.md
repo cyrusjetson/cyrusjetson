@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">Hey, I am Jetson Cyrus <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center"> 🚀 Software Engineer </h2>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodersera.com%2Fblog%2Fbest-programming-languages-for-beginners%2F&psig=AOvVaw3krTkyG5rTdTveAipRCHYZ&ust=1650188319891000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPD9ipalmPcCFQAAAAAdAAAAABAD"></p>
 
 
 - 🔭 I’m currently working on java software development...
@@ -30,21 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-<!--   <details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=cyrusjetson&theme=chartreuse-dark&no-frame=true" /></p>
-</details>
- -->
-
-<!-- <details><summary>Trophies</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=cyrusjetson&column=7&theme=gruvbox&no-frame=true"/>
-</details>
- -->
-<!-- 
-<p align="left">
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cyrusjetson&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" />  -->
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrusjetson&theme=chartreuse-dark" />
-</p>   --> 
-
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vlq2ju1d5edzyhhxk881qxqr9?si=Ae7X7-AyQEqMeTYGG1Ll8A) 
