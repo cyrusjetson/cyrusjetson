@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">Hey, I am Jetson Cyrus <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center"> 🚀 Software Engineer </h2>
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodersera.com%2Fblog%2Fbest-programming-languages-for-beginners%2F&psig=AOvVaw3krTkyG5rTdTveAipRCHYZ&ust=1650188319891000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPD9ipalmPcCFQAAAAAdAAAAABAD"></p>
+<p align="center"><img src="https://codersera.com/blog/wp-content/uploads/2020/05/programming-languages-list.jpg"></p>
 
 
 - 🔭 I’m currently working on java software development...
