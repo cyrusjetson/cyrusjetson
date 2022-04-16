@@ -40,7 +40,7 @@
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=cyrusjetson&column=7&theme=gruvbox&no-frame=true"/>
 </details>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vlq2ju1d5edzyhhxk881qxqr9) 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vlq2ju1d5edzyhhxk881qxqr9?si=Ae7X7-AyQEqMeTYGG1Ll8A) 
 
 <!--
 **cyrusjetson/cyrusjetson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
