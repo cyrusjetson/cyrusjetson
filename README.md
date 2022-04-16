@@ -25,6 +25,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 <h3 align="left">Profile Views: 🧐</h3>
+<img width="20%" src="https://profile-counter.glitch.me/%7Bcyrusjetson%7D/count.svg" />
 <img src="https://visitor-badge.glitch.me/badge?page_id=cyrusjetson.cyrusjetson" alt="visitor badge"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
