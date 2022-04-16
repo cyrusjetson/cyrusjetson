@@ -25,7 +25,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 <h3 align="left">Profile Views: 🧐</h3>
-<img width="20%" src="https://profile-counter.glitch.me/%7BGitHub-Profile%7D/count.svg" /> 
+<img width="20%" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square" /> 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
