@@ -40,6 +40,12 @@
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=cyrusjetson&column=7&theme=gruvbox&no-frame=true"/>
 </details>
 
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cyrujetson&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrusjetson&theme=chartreuse-dark" />
+</p>  
+
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vlq2ju1d5edzyhhxk881qxqr9?si=Ae7X7-AyQEqMeTYGG1Ll8A) 
 
 <!--
