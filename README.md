@@ -5,7 +5,7 @@
 
 <h2 align="center"> 🚀 Software Engineer </h2>
 
-🎶🎶🎧</br>
+<!-- 🎶🎶🎧</br>
  What if I, what if I fall?</br>
  Then am I the monster?</br>
  Just let me know</br>
@@ -13,7 +13,7 @@
  And what if I, what if I break? Yeah</br>
  Then am I the monster? Yeah</br>
  Just let me know, yeah, yeah, yeah, yeah</br>
-🎶🎶🎧</br>
+🎶🎶🎧</br> -->
 
 - 👯 I’m looking to collaborate on software development...
 - 🤔 I’m looking for help with web development...
