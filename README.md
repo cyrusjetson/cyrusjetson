@@ -1,6 +1,6 @@
 ### 
-<h1 align="center">Hey, I am Jetson Cyrus <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-
+ <h1 align="center">Hey, I am Jetson Cyrus <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
+</h1> 
 <p align="center"><img src="https://i.pinimg.com/originals/72/f0/64/72f064eae5fa0319f6665c32c370e966.gif" width = 100%></p>
 
 <h2 align="center"> 🚀 Software Engineer </h2>
