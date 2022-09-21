@@ -5,15 +5,26 @@
 
 <h2 align="center"> 🚀 Software Engineer </h2>
 
-<!-- 🎶🎶🎧</br>
- What if I, what if I fall?</br>
- Then am I the monster?</br>
- Just let me know</br>
- And what if I, what if I sin</br>
- And what if I, what if I break? Yeah</br>
- Then am I the monster? Yeah</br>
- Just let me know, yeah, yeah, yeah, yeah</br>
-🎶🎶🎧</br> -->
+
+🎶🎶🎧
+
+What if I, what if I fall?
+
+Then am I the monster?
+
+Just let me know
+
+And what if I, what if I sin
+
+And what if I, what if I break? Yeah
+
+Then am I the monster? Yeah
+
+Just let me know, yeah, yeah, yeah, yeah
+
+🎶🎶🎧
+
+
 <!-- - 💬 Ask me about software automation... -->
 - 👯 I’m looking to collaborate on software development...
 - 🤔 I’m looking for help with web development...
