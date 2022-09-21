@@ -8,19 +8,7 @@
 
 🎶🎶🎧
 
-What if I, what if I fall?
-
-Then am I the monster?
-
-Just let me know
-
-And what if I, what if I sin
-
-And what if I, what if I break? Yeah
-
-Then am I the monster? Yeah
-
-Just let me know, yeah, yeah, yeah, yeah
+.. Whatever just CHILL ..
 
 🎶🎶🎧
 
