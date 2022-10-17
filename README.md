@@ -34,7 +34,9 @@
 <h3 align="left">Profile Views: 🧐</h3>
 <img width="20%" src="https://profile-counter.glitch.me/%7Bcyrusjetson%7D/count.svg" /> 
 <p align = "center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 <p align = "center">
