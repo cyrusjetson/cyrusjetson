@@ -30,6 +30,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -41,6 +43,10 @@
 
 <h3 align="left">Profile Views: 🧐</h3>
 <img width="20%" src="https://profile-counter.glitch.me/%7Bcyrusjetson%7D/count.svg" /> 
+ 
+ 
+<p><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrusjetson&theme=onedark&show_icons=true&locale=en&layout=compact" alt="cyrusjetson" /><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrusjetson&theme=onedark" alt="cyrusjetson" /></p>
+
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
