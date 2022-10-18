@@ -5,19 +5,30 @@
 
 <h2 align="center"> 🚀 Software Engineer 👽</h2>
 
-
+<!-- 
 🎶🎶🎧
 
 .. Whatever just CHILL ..
 
 🎶🎶🎧
+ -->
+<!-- ### 😶‍🌫️ SomeThinG: -->
 
-### 😶‍🌫️ SomeThinG:
-<!-- - 💬 Ask me about software automation... -->
+
+- 🔭 I’m currently working on **Customer Care Registry**
+
+- 🌱 I’m currently learning **Deep Learning**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- ⚡ Fun fact **Octopuses have three hearts**
+
+<!-- 
+💬 Ask me about software automation...
 - 👯 I’m looking to collaborate on software development...
 - 🤔 I’m looking for help with web development...
 - 😄 Pronouns: he...
-- ⚡ Fun fact:  Octopuses have three hearts...
+- ⚡ Fun fact:  Octopuses have three hearts... -->
 
 
 <h3 align="left">Connect with me:</h3>
