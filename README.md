@@ -1,18 +1,6 @@
-### 
- <h1 align="center">Hey, I am Jetson Cyrus 👋 <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
-</h1> 
-<p align="center"><img src="https://i.pinimg.com/originals/72/f0/64/72f064eae5fa0319f6665c32c370e966.gif" width = 100%></p>
+## Hi, I'm Jetson Cyrus! 👋
 
-<h2 align="center"> 🚀 Software Engineer 👽</h2>
-
-<!-- 
-🎶🎶🎧
-
-.. Whatever just CHILL ..
-
-🎶🎶🎧
- -->
-<!-- ### 😶‍🌫️ SomeThinG: -->
+<img src = "https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width = "350" height = "200" align = "right" alt = "img"/>
 
 
 - 🔭 I’m currently working on **Customer Care Registry**
@@ -23,6 +11,8 @@
 
 - ⚡ Fun fact **Octopuses have three hearts**
 
+<hr/>
+<br/>
 <!-- 
 💬 Ask me about software automation...
 - 👯 I’m looking to collaborate on software development...
