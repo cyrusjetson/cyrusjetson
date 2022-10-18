@@ -11,7 +11,9 @@
 
 - ⚡ Fun fact **Octopuses have three hearts**
 
-- 🔥 Whatever Just Chill 👀🎵..
+- 🔥 **Whatever Just Chill 👀🎵**
+
+
 
 <hr/>
 <br/>
