@@ -45,7 +45,7 @@
  <hr>
  
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vlq2ju1d5edzyhhxk881qxqr9?si=Ae7X7-AyQEqMeTYGG1Ll8A) 
-<hr>
+
  
 <p><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrusjetson&theme=onedark&show_icons=true&locale=en&layout=compact" alt="cyrusjetson" /><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrusjetson&theme=onedark" alt="cyrusjetson" /></p>
 
