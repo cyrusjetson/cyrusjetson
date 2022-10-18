@@ -14,7 +14,7 @@
 - 🔥 **Whatever Just Chill 👀🎵**
 
 <hr/>
-<br/>
+
 <!-- 
 💬 Ask me about software automation...
 - 👯 I’m looking to collaborate on software development...
