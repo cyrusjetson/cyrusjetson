@@ -46,7 +46,7 @@
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
  
  
-## My Stats: 📝👀
+## My Stats: 👀
  
  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=cyrusjetson&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true" alt="Material Bread logo">
