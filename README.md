@@ -49,5 +49,5 @@
 ## My Stats: 👀
  
  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=cyrusjetson&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true" alt="Material Bread logo">
+    <img src="https://github-readme-stats.vercel.app/api?username=cyrusjetson&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true" alt="Hello">
 </p>
