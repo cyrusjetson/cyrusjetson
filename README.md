@@ -66,12 +66,14 @@
  
 </div> -->
 
+<p><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrusjetson&theme=onedark&show_icons=true&locale=en&layout=compact" alt="jetson" /><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrusjetson&theme=onedark" alt="vikneysh" /></p>
+<!-- 
 <div align="center">
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&layout=compact&theme=dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
 <!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyrusjetson&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats) -->
  
-  </div>
+  </div> -->
 <!--  <div style="display:flex;">
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
