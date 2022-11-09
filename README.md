@@ -59,7 +59,9 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vlq2ju1d5edzyhhxk881qxqr9?si=Ae7X7-AyQEqMeTYGG1Ll8A) 
 
-< <div align="center">
+<hr>
+
+ <div align="center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrusjetson&show_icons=true&theme=dark)
  
@@ -78,7 +80,7 @@
   </div> -->
 <!-- 
 <hr> -->
-<!-- 
+
 ## Trophies 🏆
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrusjetson" alt="cyrusjetson" /></a> </p>
- --> 
+ 
