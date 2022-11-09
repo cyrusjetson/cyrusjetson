@@ -53,5 +53,6 @@
 <p><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrusjetson&theme=onedark&show_icons=true&locale=en&layout=compact" alt="cyrusjetson" /><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrusjetson&theme=onedark" alt="cyrusjetson" /></p>
 
 <hr>
+
 ## Trophies 🏆
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrusjetson" alt="cyrusjetson" /></a> </p>
