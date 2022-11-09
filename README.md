@@ -54,7 +54,7 @@
  
 </div>
 
-<div style="height:100px;background-color: powderblue;">
+<div>
  
  [![GitHub Streak](https://streak-stats.demolab.com/?user=cyrusjetson&theme=github-dark-blue)](https://git.io/streak-stats)
  
