@@ -47,8 +47,9 @@
 <img width="20%" alt="hellooo" src="https://profile-counter.glitch.me/%7Bcyrusjetson%7D/count.svg" /> 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vlq2ju1d5edzyhhxk881qxqr9?si=Ae7X7-AyQEqMeTYGG1Ll8A) 
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrusjetson&show_icons=true&theme=dark)
+ </div>
  [![GitHub Streak](https://streak-stats.demolab.com/?user=cyrusjetson&theme=github-dark-blue)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
