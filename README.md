@@ -54,9 +54,10 @@
  
 </div>
 
-<div style="display:flex;height= 300px;">
+<div style="display:flex;height:300px;">
  
  [![GitHub Streak](https://streak-stats.demolab.com/?user=cyrusjetson&theme=github-dark-blue)](https://git.io/streak-stats)
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
  </div>
