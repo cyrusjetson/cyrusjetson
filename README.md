@@ -67,7 +67,7 @@
  
 </div>
 
-<div align="center">
+<div align="left">
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyrusjetson&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
  
