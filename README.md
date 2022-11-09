@@ -48,8 +48,10 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vlq2ju1d5edzyhhxk881qxqr9?si=Ae7X7-AyQEqMeTYGG1Ll8A) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=cyrusjetson&theme=github-dark-blue)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrusjetson&show_icons=true&theme=dark)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=cyrusjetson&theme=github-dark-blue)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusjetson&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- 
 <hr> -->
 
