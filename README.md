@@ -1,4 +1,4 @@
-<div align="center"><h1>A Passionate Programmer</h1><br><h2>Live..Code..Change..</h2></div>
+<div align="center"><h1>A Passionate Programmer</h1><h2>Live..Code..Change..</h2></div>
 
 ## Hi, I'm Jetson Cyrus! 👋
 
