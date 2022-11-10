@@ -1,7 +1,7 @@
 
 
 ## Hi, I'm Jetson Cyrus! 👋
-<div align="center">A Passionate Programmer...<br>Live..Code..Change</div>
+<div align="center"><h1>A Passionate Programmer<br>Live..Code..Change..</h1></div>
 <img src = "https://wallpaper-house.com/data/out/9/wallpaper2you_343346.png" width = "350" height = "180" align = "right" alt = "img"/>
 
 
