@@ -1,18 +1,5 @@
 <!-- <div align="center"><h1>A Passionate Programmer</h1><h2>Live..Code..Change..</h2></div> -->
 
-## Hi, I'm Jetson Cyrus! 👋
-
-<img src = "https://wallpaper-house.com/data/out/9/wallpaper2you_343346.png" width = "350" height = "180" align = "right" alt = "img"/>
-
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- ⚡ Fun fact **Octopuses have three hearts**
-
-- 🔥 **Whatever Just Chill 👀🎵**
-
-<hr/>
-
 <!-- 
 💬 Ask me about software automation...
 - 👯 I’m looking to collaborate on software development...
