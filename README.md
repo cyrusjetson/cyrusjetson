@@ -5,10 +5,6 @@
 <img src = "https://wallpaper-house.com/data/out/9/wallpaper2you_343346.png" width = "350" height = "180" align = "right" alt = "img"/>
 
 
-- 🔭 I’m currently working on **Customer Care Registry**
-
-- 🌱 I’m currently learning **Deep Learning**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - ⚡ Fun fact **Octopuses have three hearts**
