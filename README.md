@@ -19,17 +19,21 @@
 </p> -->
 
 <p align="left">
-<a href="https://twitter.com/cyrusjetson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyrusjetson" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/cyrusjetson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyrusjetson" height="30" width="40" /></a> -->
+  
 <a href="https://linkedin.com/in/cyrusjetson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyrusjetson" height="30" width="40" /></a>
-<a href="https://kaggle.com/jetsoncyrus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jetsoncyrus" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/cyrusjetson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyrusjetson" height="30" width="40" /></a>
 <!-- hashnode -->
 <a href="https://medium.com/@cyrusjetson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cyrusjetson" height="30" width="40" /></a>
+  
 <a href="https://www.youtube.com/channel/UCFPdCkL4uQMYNTb7YGoQryw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech fun bee" height="30" width="40" /></a>
+  
 <a href="https://www.hackerrank.com/cyrusjetson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cyrusjetson" height="30" width="40" /></a>
+  
 <a href="https://www.leetcode.com/cyrusjetson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cyrusjetson" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@cyrusjetson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@cyrusjetson" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/cyrusjetson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="cyrusjetson" height="30" width="40" /></a>
+
+
 </p>
 
 
