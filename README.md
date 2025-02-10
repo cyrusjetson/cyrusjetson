@@ -19,7 +19,7 @@
 </p> -->
 
 <p align="left">
-<!-- <a href="https://twitter.com/cyrusjetson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyrusjetson" height="30" width="40" /></a> -->
+<a href="https://instagram.com/cyrusjetson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyrusjetson" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cyrusjetson" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="cyrusjetson" height="40" width="40" /></a>
 <a href="https://medium.com/@cyrusjetson" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:2400/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="@cyrusjetson" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCFPdCkL4uQMYNTb7YGoQryw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech fun bee" height="40" width="40" /></a>
