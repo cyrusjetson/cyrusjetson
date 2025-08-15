@@ -46,11 +46,9 @@
 </div>
 
 <br>
-
+<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=cyrusjetson)
-
-<!-- ## Profile Visits: ![Profile Views](https://komarev.com/ghpvc/?username=cyrusjetson)
-
+ Profile Visits: ![Profile Views](https://komarev.com/ghpvc/?username=cyrusjetson)
 <img width="20%" alt="hellooo" src="https://profile-counter.glitch.me/%7Bcyrusjetson%7D/count.svg" /> -->
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vlq2ju1d5edzyhhxk881qxqr9?si=Ae7X7-AyQEqMeTYGG1Ll8A) 
