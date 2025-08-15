@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with web development...
 - 😄 Pronouns: he...
 - ⚡ Fun fact:  Octopuses have three hearts... -->
-![Profile Views](https://cyrusjetson.github.io/cyrusjetson/badge.svg)
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="center">
