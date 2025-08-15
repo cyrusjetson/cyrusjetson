@@ -1,0 +1,46 @@
+name: View Counter
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Update view count
+        run: |
+          FILE=views.json
+          if [ ! -f "$FILE" ]; then
+            echo '{"profile": 0}' > $FILE
+          fi
+          COUNT=$(jq ".profile" $FILE)
+          echo "Current count: $COUNT"
+          NEW_COUNT=$((COUNT + 1))
+          jq ".profile = $NEW_COUNT" $FILE > tmp.json && mv tmp.json $FILE
+
+      - name: Generate SVG badge
+        run: |
+          COUNT=$(jq ".profile" views.json)
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='150' height='20'>
+            <rect width='150' height='20' fill='#555'/>
+            <rect x='70' width='80' height='20' fill='#4c1'/>
+            <text x='10' y='14' fill='#fff' font-family='Verdana' font-size='11'>Views</text>
+            <text x='80' y='14' fill='#fff' font-family='Verdana' font-size='11'>$COUNT</text>
+          </svg>" > badge.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add views.json badge.svg
+          git commit -m "Update view count & badge [skip ci]" || echo "No changes"
+          git push
