@@ -7,7 +7,6 @@
 - 😄 Pronouns: he...
 - ⚡ Fun fact:  Octopuses have three hearts... -->
 
-
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="center">
   <a href="https://github.com/cyrusjetson?tab=repositories&sort=stargazers">
@@ -46,12 +45,13 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </div>
 
+<br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=cyrusjetson)
 
+<!-- ## Profile Visits: ![Profile Views](https://komarev.com/ghpvc/?username=cyrusjetson)
 
-
-## Profile Visits: 
-<img width="20%" alt="hellooo" src="https://profile-counter.glitch.me/%7Bcyrusjetson%7D/count.svg" /> 
+<img width="20%" alt="hellooo" src="https://profile-counter.glitch.me/%7Bcyrusjetson%7D/count.svg" /> -->
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/vlq2ju1d5edzyhhxk881qxqr9?si=Ae7X7-AyQEqMeTYGG1Ll8A) 
 <!-- 
